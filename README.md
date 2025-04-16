@@ -6,7 +6,7 @@
 ### This is intended to be the core project "script compiler/project generator" with-in the Almond Shell and Almond Engine open source libraries.
 
 
-#### using clang to build
+#### using clang to build and run
 
 ```c++
 
@@ -20,7 +20,7 @@ cmake .. && cmake --build .
 
 
 
-#### using cmake to build
+#### using cmake to build and run
 
 ```c++
 
