@@ -20,7 +20,7 @@ cmake .. && cmake --build .
 
 
 
-#### using cmake to build and run
+#### using cmake to build and run (Recommended to generate full project files)
 
 ```c++
 
